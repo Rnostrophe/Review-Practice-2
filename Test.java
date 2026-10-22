@@ -76,7 +76,7 @@ public class Test
     }
     public void sumOneToTen() // 7.
     {
-        int number = 0;
+        int number = 1;
         // for ()??
     }
     public void evenOneToTen() // 8.
